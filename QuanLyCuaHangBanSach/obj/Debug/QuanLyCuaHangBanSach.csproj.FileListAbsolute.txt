@@ -1,0 +1,87 @@
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.SuggestedBindingRedirects.cache
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fDangNhap.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuenMatKhau.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLy.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fBaoCaoThongKe.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fThongTin.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTroGiup.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fHoaDon.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhieuNhap.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhanVien.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyChung.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fSach.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTheLoai.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhachHang.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhaCungCap.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fViTriSach.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhoSach.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyNhanVien.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fLuong.resources
+D:\HocLapTrinh\HeQuanTriCSDL\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhanLoaiNhanVien.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.SuggestedBindingRedirects.cache
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fBaoCaoThongKe.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fDangNhap.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fHoaDon.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhachHang.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhoSach.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fLuong.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhaCungCap.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhanLoaiNhanVien.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhieuNhap.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyChung.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyNhanVien.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fSach.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLy.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhanVien.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuenMatKhau.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTheLoai.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fThongTin.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTroGiup.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fViTriSach.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+D:\Tài liệu học\Học Kì 2 năm 2\DBMS\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe.config
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.exe
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\bin\Debug\QuanLyCuaHangBanSach.pdb
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.AssemblyReference.cache
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.SuggestedBindingRedirects.cache
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fBaoCaoThongKe.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fDangNhap.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fHoaDon.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhachHang.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fKhoSach.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fLuong.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhaCungCap.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhanLoaiNhanVien.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fPhieuNhap.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyChung.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLyNhanVien.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fSach.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuanLy.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fNhanVien.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fQuenMatKhau.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTheLoai.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fThongTin.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fTroGiup.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.fViTriSach.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.Properties.Resources.resources
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.GenerateResource.cache
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.csproj.CoreCompileInputs.cache
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.exe
+D:\HQTCSDL\Project\DoAnCuoiKi\QuanLyCuaHangBanSach\obj\Debug\QuanLyCuaHangBanSach.pdb
